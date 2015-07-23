@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Listview SQlite Sample</string>
+
+    <string name="hello_world">Hello Listview</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_LVfromArray">Fill Listview</string>
+    <string name="action_show">Show</string>
+    <string name="action_insert">Insert</string>
+    <string name="action_quit">Quit</string>
+    <string name="editText1">Name</string>
+    <string name="editText2">Age</string>
+
+</resources>
